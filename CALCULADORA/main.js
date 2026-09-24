@@ -1,3 +1,5 @@
+/*MAYKDASILVASANTOS*/
+/*RA26110772*/
 const formulario = document.getElementById("calcForm")/*pegando o formulário*/
 
 formulario.addEventListener("submit", function(e){
